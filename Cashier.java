@@ -8,8 +8,10 @@ public class Cashier
     boolean isAvailable;
     int customers = 0;
     double servingTime = 0;
-    Customer customerHelping;
-    
+    Customer customerHelping; 
+
+    //hi
+     
     /**
      * Constructor for a new cashier
      */
