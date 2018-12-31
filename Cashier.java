@@ -11,6 +11,8 @@ public class Cashier
     Customer customerHelping; 
 
     //hi
+
+    //bye
      
     /**
      * Constructor for a new cashier
